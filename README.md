@@ -40,3 +40,15 @@ Dataset sourced from Kaggle:
 - NumPy, Pandas, Matplotlib
 
 ## 📁 Repository Structure
+project/
+│── data/
+│── notebooks/
+│── src/
+│── results/
+│── paper.pdf
+
+
+## 🔗 Future Work
+- Integration with deep learning models (CNN)
+- Real-time deployment on mobile/edge devices
+- Expansion to multiple plant species
