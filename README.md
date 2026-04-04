@@ -46,15 +46,15 @@ Dataset sourced from Kaggle:
 The notebook contains preprocessing, feature extraction, and model training steps.
 
 ## 📸 Sample Results
-![Result](results/12.png), ![Result](results/Picture1.png), ![Result](results/brbl2.png), ![Result](results/confusionmatrix.png), ![Result](results/tabular.png)
+![Result](results/12.png), ![Result](results/Picture1.png), ![Result](results/tabular.png)
 
 ## 📁 Repository Structure
 project/
-│── data/
-│── notebooks/
-│── src/
 │── results/
-│── paper.pdf
+│── README.md/
+│── paper.pdf/
+│── main.py/
+│── tea_leaf_detection.ipynb
 
 
 ## 🔗 Future Work
