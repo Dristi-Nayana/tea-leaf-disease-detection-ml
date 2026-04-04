@@ -39,6 +39,12 @@ Dataset sourced from Kaggle:
 - Scikit-learn
 - NumPy, Pandas, Matplotlib
 
+## 💻 Code
+- Jupyter Notebook: `tea_leaf_detection.ipynb`
+- Python Script: `main.py`
+
+The notebook contains preprocessing, feature extraction, and model training steps.
+
 ## 📁 Repository Structure
 project/
 │── data/
