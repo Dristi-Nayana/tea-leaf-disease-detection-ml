@@ -61,3 +61,7 @@ The notebook contains preprocessing, feature extraction, and model training step
 - Integration with deep learning models (CNN)
 - Real-time deployment on mobile/edge devices
 - Expansion to multiple plant species
+
+
+## 📦 Note
+Due to size limitations, dataset and trained model files are not included in this repository.
