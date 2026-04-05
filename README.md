@@ -47,13 +47,13 @@ Dataset sourced from Kaggle:
 The notebook contains preprocessing, feature extraction, and model training steps.
 
 ## 📸 Sample Results
-#HSV image alongside original image
+### HSV Feature Extraction
 ![Result](results/12.png) 
 
-#the system architecture
+### System architecture
 ![Result](results/Picture1.png) 
 
-# visual display of images from the dataset
+### Dataset Samples
 ![Result](results/tabular.png)
 
 
