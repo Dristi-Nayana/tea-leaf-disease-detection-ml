@@ -25,6 +25,7 @@ The system detects and classifies tea leaf diseases using extracted features suc
 4. Disease Classification (Healthy vs Diseased)
 
 ## 📊 Results
+- Achieved effective classification across 8 classes (7 diseased + 1 healthy)
 - Successfully classified multiple tea leaf diseases
 - Achieved strong performance using feature-based ML models
 - Demonstrated effectiveness in agricultural disease detection
