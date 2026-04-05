@@ -48,14 +48,6 @@ The notebook contains preprocessing, feature extraction, and model training step
 ## 📸 Sample Results
 ![Result](results/12.png), ![Result](results/Picture1.png), ![Result](results/tabular.png)
 
-## 📁 Repository Structure
-project/
-│── results/
-│── README.md/
-│── paper.pdf/
-│── main.py/
-│── tea_leaf_detection.ipynb
-
 
 ## 🔗 Future Work
 - Integration with deep learning models (CNN)
