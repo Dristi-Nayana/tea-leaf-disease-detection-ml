@@ -46,7 +46,14 @@ Dataset sourced from Kaggle:
 The notebook contains preprocessing, feature extraction, and model training steps.
 
 ## 📸 Sample Results
-![Result](results/12.png), ![Result](results/Picture1.png), ![Result](results/tabular.png)
+#HSV image alongside original image
+![Result](results/12.png) 
+
+#the system architecture
+![Result](results/Picture1.png) 
+
+# visual display of images from the dataset
+![Result](results/tabular.png)
 
 
 ## 🔗 Future Work
